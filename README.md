@@ -1,29 +1,31 @@
-# CarritoCompras
+Carrito de Compras (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite.
+📦 Listado de productos disponibles con imagen, precio y botón de acción.
 
-## Recommended IDE Setup
+🛒 Carrito dinámico: muestra los productos añadidos, cantidad y subtotal.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+🔄 Actualización automática del total a pagar.
 
-## Customize configuration
+❌ Opción para eliminar productos del carrito.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+📱 Diseño responsive
 
-## Project Setup
+🚀 Como usar:
 
-```sh
+Clona este repositorio:
+
+git clone https://github.com/Isco-Lina/CarritoDeCompras.git
+
+cd CarritoDecompras
+
+Instala las dependencias:
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
+Inicia el servidor de desarrollo:
 
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+🧑‍💻 Abre en tu navegador:
 
-```sh
-npm run build
-```
+http://localhost:5173
