@@ -28,4 +28,4 @@ npm run dev
 
 🧑‍💻 Abre en tu navegador:
 
-http://localhost:5173
+http://localhost
