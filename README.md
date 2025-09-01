@@ -1,5 +1,7 @@
 Carrito de Compras (Vue.js)
 
+Enlace en netlify: https://mockup-carrito-compras.netlify.app/
+
 📦 Listado de productos disponibles con imagen, precio y botón de acción.
 
 🛒 Carrito dinámico: muestra los productos añadidos, cantidad y subtotal.
@@ -9,23 +11,3 @@ Carrito de Compras (Vue.js)
 ❌ Opción para eliminar productos del carrito.
 
 📱 Diseño responsive
-
-🚀 Como usar:
-
-Clona este repositorio:
-
-git clone https://github.com/Isco-Lina/CarritoDeCompras.git
-
-cd CarritoDecompras
-
-Instala las dependencias:
-
-npm install
-
-Inicia el servidor de desarrollo:
-
-npm run dev
-
-🧑‍💻 Abre en tu navegador:
-
-http://localhost
